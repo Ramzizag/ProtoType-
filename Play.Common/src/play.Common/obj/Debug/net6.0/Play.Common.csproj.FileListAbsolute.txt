@@ -1,0 +1,5 @@
+F:\projects\Play.Common\src\Play.Common\obj\Debug\net6.0\Play.Common.csproj.AssemblyReference.cache
+F:\projects\Play.Common\src\Play.Common\obj\Debug\net6.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\Play.Common\src\Play.Common\obj\Debug\net6.0\Play.Common.AssemblyInfoInputs.cache
+F:\projects\Play.Common\src\Play.Common\obj\Debug\net6.0\Play.Common.AssemblyInfo.cs
+F:\projects\Play.Common\src\Play.Common\obj\Debug\net6.0\Play.Common.csproj.CoreCompileInputs.cache
